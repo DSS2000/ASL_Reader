@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "handsignreader",
+  "private_key_id": "31e3a72960160106c2ff75326ac7ba8074eed02b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIw22Y0bj/HVh7\nQqp3ktjJlsJLhhnefscfot4XrjBCE/WV4AEsaz76TqvSHpVp8vnNzhSfxBisO5tt\nVi7RrPfyfXKR0D6oYM0rl/ysquOPjJ39DwoW1PCqr9f8gPZtd/lBySHXC9wYWegf\nHnCJtFHOQVlfQ3SpNCfe10neWMBfde3tx40qLNUpU762VPnZJtJItsnIuKdnZ24f\n11Sc7myHkLbIyaxG58Ow/NKMFA0Q1kbFDqxmFW24LsaVbsgOqnOlieAUzqoIJYtc\niwEGvIRTGQZCxNFwsuPMjZfC6gjESU0uBHSdTExNpSaKbcZv+a7nL6qiXkg9h9ea\n6GzDxYvLAgMBAAECggEAGJuCQJ5yx0DwukmivP2bTnjeP2/kQNYXkGRKm5VxUHrD\neceB7VCx4JqpoHC440pxsveaUIuHyKiVCvLq0dlvxLb6nC5trP68dyZDGrjmzo6v\nmLfHW/gQDaPNsfiZUTPzhyGLi8u7gk1BeyWkfpnDAyhrDMGnDXbul3eaPsNwb41n\nA9o9GNFFZKvPQiqFlVx+fjNuk0yzR9vZ01RMRjbXBpfPTBEPqSqsr4M/+Xo58TR2\niAeFcVZR56kR5XvsIeAVV8cSwT9/xpKjdgu3gBgRbkeb10qgOeoWLTMi54UcWAhw\nVOu1JREMUUYW4zdzWplbqzDCoOfG72Dp0E6a6bqKgQKBgQDxaebwvWzaopHubeG4\ny3UAEsvof0/xMWL0IM5RqmFidBhiu2PyjpNu8WQRrPFBsECfVbLZ41GuOIakRese\neSZBO2bQrlP9uuZh/OKArVt8SI2z52nXSBJrP0FHQ0liTZUDP0NkUVt2j5+zz/HP\n1L7swLzikSynAzpHJK+CQU4dSwKBgQDU5MMmSghaKDdHyblZCJJjBfu5hyGCEjPz\nUmVSmqmjvwWaSmpcScfILZL1fFnVykK0+BIRNnCttgFULG6dS1bZyRP2t85+XYTI\nvCyU8VLq+dwEGDadJatBd6+lvmIBSqmiA1G0jA4yColx/Fd/VDfa5n/wSpv3axl9\nPNbPcSm7gQKBgHcHaTd/nkE6cMtnYCjWIAz2N5Wd2BOq7whBeJipcjSx2ygrDr+U\nbrr/yAAzDgz+Uw58mZ92xlopQrGSS7gNsb/uAuaXXZA368mafy9EylvABiYSzou3\n3GUGni/9zBvs9rDQK3E17+vIKszklWyMj8p5yWfIfoSmQcC8JNELU/F7AoGASDC2\nV/J8uI2wiSBHQICemwN5Y2UGIMQpZ5YGE6esZIEu1i3ruRWvsBp8HdAn6k3mptUD\n02BhfxYbhz5119KnRbxgj6WuWL0/fI4KlArs8g7940mOo2UVmGKMZiiTtRprQSvc\n9dsUKTXXe5Z02RFmy0ykD4hNMO3ZO9V4hek6nIECgYBLFMDrGVrJj//LE47Fkx4d\nDmZGoBCgbEBu8kBRvakg2lbqTR3SOSnZw/jZXhM3Nmmwq+TSLV0AY4u466w42RwC\nbUA01OCqOnrxDPJlDfh1/rA27vrCirEyMNbXa7/WJCF511VPnhQ0LJMJpAHWf7sB\nd5Sb51cUxHhaWftM0X1OtQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "handreader@handsignreader.iam.gserviceaccount.com",
+  "client_id": "101218203334738147129",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/handreader%40handsignreader.iam.gserviceaccount.com"
+}
